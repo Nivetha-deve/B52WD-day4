@@ -1,0 +1,41 @@
+//PRINTING ODD NUMBERS:
+//var odd = function(a,b){
+  //  return a+b;
+//}
+//console.log(odd(1,2));
+//console.log(odd(2,3));
+//console.log(odd(3,4));
+
+//2...................
+
+//(function () {
+  //  var student = ["i am a student of guvi geek and i like the class very much"];
+    
+    //for (var i = 0; i < student.length; i++) {
+      //student[i] = student[i].toLowerCase().split(' ').map(function(word) {
+        //return word.charAt(0).toUpperCase() + word.slice(1);
+      //}).join(' ');
+   // }
+  
+    //console.log(student);
+  //})();
+
+ //3.........................
+
+//(function() {
+  //var number =[1,2,3,4,5,6,7,8,9,10];
+  //var result =0;
+  //for (var i =0; i<number.length; i++){
+    //result += number[i];
+ // }
+ // console.log(+result);
+//})();
+
+ //4.............................
+ //(function (){
+ //var num =[2,3,5,7,11,13,17];
+ //for (var i=0;i<num.length;i++){
+ // if( num % 1==0)return true;
+ //}
+//console.log(num);
+// })()
