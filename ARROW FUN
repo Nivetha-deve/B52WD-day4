@@ -14,3 +14,18 @@ var stringArray =[ "hi i am a student of guvi geek class"];
     .join(" "); 
  });
  console.log(titleCaseArray);
+//3.................................
+var num = [1,2,3,4,5];
+var sum = 0 ;
+num.forEach((iteam) =>{
+  sum += iteam;
+});
+console.log(sum);
+//4........................
+var num =[2,3,5,7,11,13,17];
+var result = num =>{
+ for (var i=0;i<num.length;i++){
+  if( num % 1==0)
+  return true;
+}};
+console.log(num);
